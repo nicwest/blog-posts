@@ -1,0 +1,11 @@
+- name: test post
+  slug: test-post
+  file: test-post.md
+  date: 2014-10-27 00:33
+  description: This is a test post please ignore
+- name: chicken soup
+  slug: chicken-soup
+  file: chicken-soup.md
+  date: 2014-10-27 00:33
+  description: A post about chicken soup
+  
